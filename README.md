@@ -1,1 +1,1 @@
-# Supply-chain-Analysis-Of-Inventories_NM_ID_C41D4349348B86DAA7C40E6619ECBFCE
+# Supply-chain-Analysis-Of-Inventories
